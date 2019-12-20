@@ -41,5 +41,6 @@ Arvato_Project_Workbook.ipynb
 
 ## Results
 The detailed analysis of the results can be read in this Medium post:
+https://medium.com/@benjaminehrensberger/customer-segmentation-for-arvato-bertelsmann-financial-service-183a370077c?sk=5766a2fd13e04fa86e58bf15f82cb189
 
 ## Licensing, Authors, Acknowledgements
